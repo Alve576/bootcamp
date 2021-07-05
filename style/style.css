@@ -1,0 +1,13 @@
+.navA{
+    margin-right: -63rem;  
+    color: black;
+    text-decoration: none;
+  }
+
+  .cont-main{
+    margin-top: 50px;
+    background-image: url('/css/contbg.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100vh;
+}
